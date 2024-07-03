@@ -1,0 +1,33 @@
+{
+  "name": "postcss-shadcn-theme",
+  "version": "0.0.0",
+  "description": "PostCSS plugin for adding shadcn-vue classes into tailwind root so that they can be accessed using color-mode classes",
+  "keywords": ["postcss", "css", "postcss-plugin", "postcss-shadcn-theme"],
+  "scripts": {
+    "unit": "node --test index.test.js",
+    "test": "npm run unit && eslint ."
+  },
+  "author": "sauravkumal <sk.sauravkumal1@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/sauravkumal/postcss-shadcn-theme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "peerDependencies": {
+    "postcss": "^8.4.27"
+  },
+  "devDependencies": {
+    "eslint": "^8.47.0",
+    "postcss": "^8.4.27"
+  },
+  "eslintConfig": {
+    "parserOptions": {
+      "ecmaVersion": 2017
+    },
+    "env": {
+      "node": true,
+      "es6": true
+    },
+    "extends": ["eslint:recommended"]
+  }
+}
