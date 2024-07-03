@@ -1,7 +1,7 @@
 {
   "name": "postcss-shadcn-theme",
   "version": "0.0.0",
-  "description": "PostCSS plugin for adding shadcn-vue classes into tailwind root so that they can be accessed using color-mode classes",
+  "description": "PostCSS plugin for adding shadcn theme classes into root so that they can be accessed using color-mode classes",
   "keywords": ["postcss", "css", "postcss-plugin", "postcss-shadcn-theme"],
   "scripts": {
     "unit": "node --test index.test.js",
