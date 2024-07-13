@@ -31,7 +31,6 @@ module.exports = () => {
           'border': '240 5.9% 90%',
           'input': '240 5.9% 90%',
           'ring': '240 5.9% 10%',
-          'radius': '0.5rem',
         },
         dark: {
           'background': '240 10% 3.9%',
@@ -84,7 +83,6 @@ module.exports = () => {
           'border': '214.3 31.8% 91.4%',
           'input': '214.3 31.8% 91.4%',
           'ring': '222.2 84% 4.9%',
-          'radius': '0.5rem',
         },
         dark: {
           'background': '222.2 84% 4.9%',
@@ -137,7 +135,6 @@ module.exports = () => {
           'border': '20 5.9% 90%',
           'input': '20 5.9% 90%',
           'ring': '20 14.3% 4.1%',
-          'radius': '0.95rem',
         },
         dark: {
           'background': '20 14.3% 4.1%',
@@ -190,7 +187,6 @@ module.exports = () => {
           'border': '220 13% 91%',
           'input': '220 13% 91%',
           'ring': '224 71.4% 4.1%',
-          'radius': '0.35rem',
         },
         dark: {
           'background': '224 71.4% 4.1%',
@@ -295,7 +291,6 @@ module.exports = () => {
           'border': '0 0% 89.8%',
           'input': '0 0% 89.8%',
           'ring': '0 72.2% 50.6%',
-          'radius': '0.4rem',
         },
         dark: {
           'background': '0 0% 3.9%',
@@ -348,7 +343,6 @@ module.exports = () => {
           'border': '240 5.9% 90%',
           'input': '240 5.9% 90%',
           'ring': '346.8 77.2% 49.8%',
-          'radius': '0.5rem',
         },
         dark: {
           'background': '20 14.3% 4.1%',
@@ -401,7 +395,6 @@ module.exports = () => {
           'border': '20 5.9% 90%',
           'input': '20 5.9% 90%',
           'ring': '24.6 95% 53.1%',
-          'radius': '0.95rem',
         },
         dark: {
           'background': '20 14.3% 4.1%',
@@ -558,7 +551,6 @@ module.exports = () => {
           'border': '20 5.9% 90%',
           'input': '20 5.9% 90%',
           'ring': '20 14.3% 4.1%',
-          'radius': '0.95rem',
         },
         dark: {
           'background': '20 14.3% 4.1%',
